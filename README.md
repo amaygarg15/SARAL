@@ -72,7 +72,3 @@ The system includes:
 2. Open `index.html` in a browser.  
 3. TailwindCSS is loaded via CDN, no setup required.  
 
-```bash
-git clone https://github.com/your-repo/disaster-management-prototype.git
-cd disaster-management-prototype
-open index.html
